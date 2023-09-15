@@ -16,3 +16,4 @@ Para executar o sistema em seu ambiente local, siga os passos a seguir:
 2- Importe o banco de dados para o seu SQL Server, o arquivo de backup está na raiz do projeto (dbesig.bak).
 3- Realize a configuração da string de conexão no arquivo "Web.config", ajustando as informações de 
 conexão para refletir as configurações de sua máquina.
+4 - Foi criado um usuário com o login "esig" e a senha "1234" mas todos as senhas dos usuários são "1234"
